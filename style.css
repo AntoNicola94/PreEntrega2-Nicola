@@ -1,0 +1,495 @@
+
+/*Color en el index - header*/
+
+header 
+a { text-decoration: none;}
+a {font-size: 18px;}
+.InicioIndx {
+    color: rgba(80, 68, 46, 0.9);
+}
+
+.NosotrosIndx {
+    color: rgb(93, 93, 93);
+}
+
+.TallerIndx {
+    color: rgb(93, 93, 93);
+}
+
+.CursosIndx {
+    color: rgb(93, 93, 93);
+}
+
+.ContactoIndx {
+    color: rgb(93, 93, 93);
+}
+
+/*Color en nosotros- header*/
+
+header 
+.InicioNos {
+    color:rgb(93, 93, 93) ;
+}
+
+.NosotrosNos {
+    color: rgba(211, 177, 120, 0.9);
+}
+
+.TallerNos {
+    color: rgb(93, 93, 93);
+}
+
+.CursosNos {
+    color: rgb(93, 93, 93);
+}
+
+.ContactoNos {
+    color: rgb(93, 93, 93);
+}
+
+/*Color en Taller- header*/
+
+header 
+.InicioTal {
+    color:rgb(93, 93, 93) ;
+}
+
+.NosotrosTal {
+    color: rgb(93, 93, 93) ;
+}
+
+.TallerTal {
+    color: rgba(211, 177, 120, 0.9);
+}
+
+.CursosTal {
+    color: rgb(93, 93, 93);
+}
+
+.ContactoTal {
+    color: rgb(93, 93, 93);
+}
+
+/*Color en Cursos- header*/
+
+header 
+.InicioCur {
+    color:rgb(93, 93, 93) ;
+}
+
+.NosotrosCur {
+    color: rgb(93, 93, 93) ;
+}
+
+.TallerCur {
+    color: rgb(93, 93, 93) ;
+}
+
+.CursosCur {
+    color: rgba(211, 177, 120, 0.9);
+}
+
+.ContactoCur {
+    color: rgb(93, 93, 93);
+}
+
+/*Color en Contacto- header*/
+
+header 
+.InicioCon {
+    color:rgb(93, 93, 93) ;
+}
+
+.NosotrosCon {
+    color: rgb(93, 93, 93) ;
+}
+
+.TallerCon {
+    color: rgb(93, 93, 93) ;
+}
+
+.CursosCon {
+    color: rgb(93, 93, 93);
+}
+
+.ContactoCon {
+    color:  rgba(211, 177, 120, 0.9);
+}
+
+section h1 {font-size: 30px;}
+
+nav {background-color: rgba(255, 234, 206, 0.805);}
+
+footer { background-color:rgba(255, 234, 206, 0.805) ;
+}
+
+header
+img {
+    width: 200px;
+}
+section
+img {
+    width: 100%;
+}
+
+h1 {
+    /*Relleno*/
+    padding-top: 30px;
+    padding-right: 40px ;
+    padding-bottom: 80px;
+    padding-left: 30px ;
+}
+
+.phome {
+    margin-left: 50px;
+    margin-right: 50px;
+
+    font-family: 'Purple Purse', serif;
+    font-family: 'Quicksand', sans-serif;
+
+
+}
+
+.h1taller {
+    padding-top: 30px;
+    padding-right: 40px ;
+    padding-bottom: 80px;
+    padding-left: 30px 
+    
+
+}
+
+.h2taller {
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: medium;
+}
+
+.Pellizco {
+    margin-left: 50px;
+    margin-right: 50px
+    
+}
+
+.Torno {
+    margin-left: 50px;
+    margin-right: 50px
+    
+}
+
+.Moldes {
+    margin-left: 50px;
+    margin-right: 50px
+    
+}
+
+.Contramoldes {
+    margin-left: 50px;
+    margin-right: 50px
+    
+}
+
+.Plancha {
+    margin-left: 50px;
+    margin-right: 50px
+    
+}
+
+h1 {
+    font-family: 'Purple Purse', serif
+
+}
+
+h1 { color: rgb(116, 81, 31);}
+
+
+
+nav {
+    font-family: 'Purple Purse', serif;
+font-family: 'Quicksand', sans-serif;
+}
+
+.cursosh1 {  font-family: 'Purple Purse', serif
+
+}
+
+h2 {
+    font-family: 'Purple Purse', serif;
+font-family: 'Quicksand', sans-serif;
+}
+
+video {
+    margin-left: 50px;
+    margin-right: 50px
+}
+
+.masque {
+    position: absolute;
+  top: 40%; 
+  left: 50%; 
+  transform: translate(-60%, -60%);
+  color: rgba(206, 190, 162, 0.932);
+  font-size: 40px; 
+  text-align: left;
+  
+    
+  }
+
+  
+    
+ 
+
+
+
+.container-fluid {
+    font-family: 'Quicksand', sans-serif;
+    background-color: rgba(206, 190, 162, 0.932);
+    
+
+}
+
+.footer {
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+ 
+}
+
+
+.text-center {
+    font-family: 'Quicksand', sans-serif;
+}
+
+form {
+    /* Centrar el formulario en la página */
+    margin: 0 auto;
+    width: 400px;
+    /* Esquema del formulario */
+    padding: 1em;
+    border: 1px solid #ccc;
+    border-radius: 1em;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 20;
+    margin: 20;
+   
+  }
+  
+  form li + li {
+    margin-top: 1em;
+  }
+  
+  label {
+    /* Tamaño y alineación uniforme */
+    display: inline-block;
+    width: 50px;
+    text-align: right;
+  }
+  
+  input,
+  textarea {
+    /* Para asegurarse de que todos los campos de texto tienen la misma configuración de letra
+       Por defecto, las áreas de texto tienen un tipo de letra monoespaciada */
+    font: 1em sans-serif;
+  
+    /* Tamaño uniforme del campo de texto */
+    width: 300px;
+    box-sizing: border-box;
+  
+    /* Hacer coincidir los bordes del campo del formulario */
+    border: 1px solid #99999987;
+  }
+  
+  input:focus,
+  textarea:focus {
+    /* Destacado adicional para elementos que tienen el cursor */
+    border-color: #000;
+  }
+  
+  textarea {
+    /* Alinear los campos de texto multilínea con sus etiquetas */
+    vertical-align: top;
+  
+    /* Proporcionar espacio para escribir texto */
+    height: 5em;
+  }
+  
+
+  #contactowp {
+    text-align: center; /* Centra el contenido dentro de la sección */
+    margin-top: 20px; /* Añade un margen en la parte superior */
+
+  }
+
+#contactowp a {
+  display: inline-block; /* Hace que el enlace sea un bloque en línea */
+  text-decoration: none; /* Elimina el subrayado predeterminado del enlace */
+  border: 1px solid #28a745; /* Añade un borde alrededor del enlace */
+  padding: 10px 20px; /* Añade relleno alrededor del enlace */
+  background-color: #28a745; /* Establece el color de fondo del enlace */
+  color: #ffffff; /* Establece el color del texto del enlace */
+  border-radius: 5px; /* Añade esquinas redondeadas al enlace */
+}
+
+#contactowp a:hover {
+  background-color: #218838; /* Cambia el color de fondo cuando el enlace está en hover */
+  
+}
+
+.MapaGoogle {
+    text-align: center;
+    
+}
+
+.Acercate {
+    text-align: center;
+    font-family: 'Purple Purse', serif;
+}
+
+.contenedor-flex {
+    display: flex;
+    justify-content: space-between; /* Espaciado uniforme entre elementos */
+}
+
+.creadora {
+    color: rgb(116, 81, 31)
+}
+
+.card-container {
+    
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        padding: 200px;
+        width: 100%;
+        margin: 0;
+ }
+
+.homecards card:hover{
+        position: relative;
+        width: 20rem;
+        overflow: hidden;
+        margin: 0 50px;
+        border-radius: 3px;
+        
+        
+        }
+    
+ @media screen and (max-width: 767px) {
+            body {
+                background-color: #f1f1f1;
+            }
+}
+
+.card-container {
+    display: flex;
+    justify-content: space-between; 
+}
+
+.card {
+    width: 18rem;
+    margin-right: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+
+.card-img-top {
+    width: 100%;
+    height: 200px; /* Altura de la imagen */
+}
+
+.card-body {
+    padding: 15px;
+}
+
+.btncard {
+    display: block;
+    margin-top: 10px;
+}
+
+
+
+.creadorasection {
+    display: flex;
+    flex-direction: column; 
+    gap: 10px;
+}
+
+
+
+@media screen and (min-width: 768px) {
+    
+    .creadorasection {
+        flex-direction: row; 
+        justify-content: space-between; 
+        
+    }
+
+    .grid-container {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+.creadora {
+    
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+video {
+    width: 50%;
+    height: auto;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.phome {
+
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.btn {
+    position: absolute;
+    top: 40%; 
+    left: 10%;
+    
+}
+
+.btn-secondary {
+    margin-right: 100px;
+    margin-left: 650px;
+
+}
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 40px;
+    padding: 20px;
+    position: center;
+}
+
+.gallery img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    transition: transform 0.3s ease-in-out;
+    
+    
+
+}
+
+.gallery img:hover {
+    transform: scale(1.1);
+}
+
+.h1taller {
+    padding: 50px;
+    margin-top: 10px;
+    color:rgb(116, 81, 31) ;
+    
+}
+
